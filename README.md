@@ -43,10 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-bookmark-manager-page-using-react-and-tailwind-css-_n6irSXQ9d)
 - Live Site URL: [Netlify URL](https://frontend-mentor-bookmark-manager.netlify.app/)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f0726bb8-9c67-42d2-a288-7f2c3f721c01/deploy-status)](https://app.netlify.com/sites/frontend-mentor-bookmark-manager/deploys)
 
 ## My process
 

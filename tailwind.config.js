@@ -18,6 +18,7 @@ module.exports = {
           veryDarkBlue: 'hsl(229, 31%, 21%)',
           buttonGray: '#F6F7F6',
           darkGray: '#62626B',
+          svgBgGray: 'hsl(232, 45%, 94%)',
         }
       },
     },

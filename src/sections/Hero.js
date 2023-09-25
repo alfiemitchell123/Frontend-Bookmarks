@@ -7,7 +7,7 @@ const Hero = () => {
             <div className="pr-12 md:flex-1">
                 <IllustrationHero />
 
-                <div className="absolute right-0 top-28 z-[-1] w-[400px] h-[225px] bg-primary-blue rounded-l-[150px]"></div>
+                <div className="absolute right-0 top-28 z-[-1] w-[400px] h-[225px] bg-primary-blue rounded-l-[150px] md:w-[350px] md:top-20 lg:w-[600px] lg:h-[325px] lg:top-36 lg:-right-24"></div>
             </div>
 
             <div className="text-center mt-10 md:text-left md:pl-24 md:flex-1 md:mt-8 lg:mt-16 lg:max-w-xl">

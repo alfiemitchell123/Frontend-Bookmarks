@@ -1,6 +1,7 @@
 const IllustrationFeaturesTab1 = () => {
     return (
-        <div className="flex-1">
+        <div className="flex-1 bg-neutral-svgBgGray rounded-3xl">
+            <div className="absolute -left-48 bottom-56 z-[-1] w-[575px] h-[225px] bg-primary-blue rounded-r-[150px] md:top-52 md:w-[500px] lg:w-[800px] lg:h-[350px] lg:top-[45%]"></div>
             <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xlink="http://www.w3.org/1999/xlink"

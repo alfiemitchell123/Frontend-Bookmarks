@@ -5,7 +5,7 @@ import LogoOpera from "@/components/Browser-Logos/LogoOpera";
 
 const Extensions = () => {
     return (
-        <div className="pt-28">
+        <div className="mt-28 lg:mt-48">
             <div className="px-12 text-center pb-4">
                 <h2>Download the extension</h2>
                 <p className="p-6 md:px-48 lg:px-96">We've got more browsers in the pipeline. Please do let us know if you've got a favourite you'd like us to prioritize.</p>

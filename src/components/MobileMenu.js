@@ -6,7 +6,7 @@ import { TwitterLogo } from './Social-Logos/TwitterLogo'
 
 const MobileMenu = ({ handleCloseClick }) => {
     return (
-        <div className="absolute inset-0 bg-neutral-veryDarkBlue/95">
+        <div className="absolute z-[9999] inset-0 px-4 bg-neutral-veryDarkBlue/95">
             <div className="flex p-10 items-center">
                 <Logo textFill={'#fff'} circleFill={'#fff'} flagFill={'hsl(229 31% 21% / 0.9)'} />
 
@@ -35,7 +35,7 @@ const MobileMenu = ({ handleCloseClick }) => {
                 </ul>
             </div>
 
-            <div className="flex justify-center gap-8 mt-48">
+            <div className="flex justify-center items-center gap-8 mt-48">
                 <FacebookLogo />
                 <TwitterLogo />
             </div>

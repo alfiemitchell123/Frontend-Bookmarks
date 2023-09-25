@@ -7,7 +7,7 @@ const IllustrationHero = () => {
                 viewBox="0 0 657 466"
                 width="100%"
                 height="auto"
-                className="ml-6"
+                className="ml-6 lg:w-[110%]"
             >
                 <defs>
                     <filter id="a" width="118%" height="126.9%" x="-9%" y="-5.7%" filterUnits="objectBoundingBox">

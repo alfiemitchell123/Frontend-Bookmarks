@@ -30,7 +30,7 @@ const EmailSignup = () => {
             <form className="mt-6 md:flex md:gap-4 md:justify-center" onSubmit={handleSubmit} noValidate>
                 <div className={`relative ${emailError ? 'bg-primary-red border-primary-red border-t-4 border-x-4 mb-4' : 'mb-5'} rounded`}>
                     <input
-                        className="rounded w-full h-[45px] p-6 shadow-none outline-none md:py-4 md:px-12 md:placeholder:-p-1"
+                        className="rounded w-full h-[45px] p-6 shadow-none outline-none md:w-[300px] md:py-4 md:px-12 md:placeholder:-p-1"
                         type="email"
                         name="email"
                         placeholder="john@smith.com"
